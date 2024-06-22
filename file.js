@@ -5,3 +5,4 @@ const element = {
   state: "Washington",
 };
 console.log(element);
+console.log("hey man");
